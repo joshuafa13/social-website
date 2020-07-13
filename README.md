@@ -1,10 +1,20 @@
-# social-website
-This is a social page with 200 users.
+# Social Website
 
-# Features
-- List all users
-- 20 users per page
-- Search by name
-- Add/ delete favorite
-- Sort by gender 
-- View User page/ favoirte page
+This is a web app for people to find new friends
+
+## Features
+
+- list users from API
+- display 20 users each page
+- search user by name
+- add user to your favorite list
+- sort by gender
+- switch view
+
+### Searching
+
+Type first or last name in search bar.
+
+### Switch view
+
+Click list or favorite button to switch between views.
